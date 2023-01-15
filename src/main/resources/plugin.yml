@@ -1,0 +1,4 @@
+name: NuppedHosts
+version: '${project.version}'
+main: me.skmanux.nuppedhosts.NuppedHosts
+authors: [ sk_Manux ]
